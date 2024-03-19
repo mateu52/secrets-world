@@ -1,0 +1,18 @@
+
+.head {
+    background-image: url('../images/1698064834249.png');
+    height: 140px;
+    width: 100%;
+    margin: 10px;
+    /* background-color: antiquewhite; */
+}
+.list{
+    background-color: azure;
+    height: 100px;
+    width: 80%;
+    position:absolute;
+    top:50px;
+    right: 0;
+    justify-items: end;
+    border-radius: 70px 0px 0px 0px;
+}
